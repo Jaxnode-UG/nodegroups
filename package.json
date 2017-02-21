@@ -1,0 +1,12 @@
+{
+  "name": "nodegroups",
+  "version": "1.0.0",
+  "description": "Script for finding Node user groups on Meetup",
+  "main": "index.js",
+  "repository": "https://github.com/davidfekke/nodegroups",
+  "author": "David Fekke <david@fekke.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  }
+}
