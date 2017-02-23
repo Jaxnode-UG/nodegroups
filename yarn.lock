@@ -8,6 +8,12 @@ encoding@^0.1.11:
   dependencies:
     iconv-lite "~0.4.13"
 
+highland@^2.10.2:
+  version "2.10.2"
+  resolved "https://registry.yarnpkg.com/highland/-/highland-2.10.2.tgz#61d7901a7636a3a68e0fce43c9894244d6dadb10"
+  dependencies:
+    util-deprecate "^1.0.2"
+
 iconv-lite@~0.4.13:
   version "0.4.15"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.15.tgz#fe265a218ac6a57cfe854927e9d04c19825eddeb"
@@ -22,3 +28,7 @@ node-fetch@^1.6.3:
   dependencies:
     encoding "^0.1.11"
     is-stream "^1.0.1"
+
+util-deprecate@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
